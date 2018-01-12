@@ -108,4 +108,4 @@ List of content
 ## Donations
 Awesome list made by [@BlueDragon](https://github.com/BlueDragon555), you can donate Lisk here: 5755886524444585708L
 
-If you are making delegate votes please vote #### bluedragon to help me become a forger. Once forging you will recieve a 80% reward in return for your help.
+If you are making delegate votes please vote **bluedragon** to help me become a forger. Once forging you will recieve a 80% reward in return for your help.
