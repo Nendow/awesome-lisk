@@ -106,6 +106,6 @@ List of content
 * [Liska Chat Bot](https://forum.lisk.io/viewtopic.php?t=659) Liska is a chat bot for the Lisk chat room
 
 ## Donations
-Awesome list made by [@BlueDragon](https://github.com/BlueDragon555), you can donate Lisk here: 5755886524444585708L
+Awesome list made by [@BlueDragon](https://github.com/BlueDragon555), you can donate Lisk here: **5755886524444585708L**
 
 If you are making delegate votes please vote **bluedragon** to help me become a forger. Once forging you will recieve a 80% reward in return for your help.
