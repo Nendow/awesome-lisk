@@ -88,6 +88,9 @@ List of content
 
 # Python
 * [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
+* [Lisk Auto Vote](https://github.com/simonmorgenthaler/Lisk-autoVote) A python script to vote automatically from text files with delegate names, addresses and/or public keys.
+* [Lisk Funds Distributor](https://github.com/simonmorgenthaler/Lisk-fundsDistributor) A python script to distribute funds to different accounts.
+
 
 # Ruby
 * [Lisk.rb](https://github.com/4fryn/lisk.rb) A Ruby wrapper for the Lisk API
