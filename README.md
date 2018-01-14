@@ -9,6 +9,7 @@ List of content
 - [Official Links](#official-links)
 - [Lisk Team](#lisk-team)
 - [Websites And Blogs](#websites-and-blogs)
+- [Telegram](#telegram)
 - [Twitter](#twitter)
 - [Facebook](#facebook)
 - [Reddit](#reddit)
@@ -18,6 +19,7 @@ List of content
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Swift](#swift)
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
 - [Donations](#donations)
@@ -40,7 +42,6 @@ List of content
 * [Lisk.io/team](https://lisk.io/team) Lisk team members page
 * Thomas Schouten (Marketing Lead at @LiskHQ) [(Twitter)](https://twitter.com/Thomelsch) [(LinkedIn)](https://www.linkedin.com/in/thomasmschouten) 
 * Lindsay Buescher (Marketing Manager ar @LiskHQ) [(Twitter)](https://twitter.com/Lindsay4Liberty) [(LinkedIn)](https://linkedin.com/in/lindsaybuescher) 
-* Isabella Dell (System Architect at @LiskHQ) [(Twitter)](https://twitter.com/Isabella_Lisk) [(LinkedIn)](https://linkedin.com/in/dellisabella) 
 * Hüseyin Yilmaz (Lead Design at @LiskHQ) [(Twitter)](https://twitter.com/imfine_thankyou) [(LinkedIn)](https://www.linkedin.com/in/h%25C3%25BCseyin-yilmaz-48529460) 
 
 # Websites And Blogs
@@ -50,6 +51,10 @@ List of content
 * [Liskpoland.pl](http://liskpoland.pl) Community website and information for Polish Lisk users
 * [Liskpro.com](https://www.liskpro.com) Community website and information for French Lisk users
 * [Lottery.liskpro.com](http://lottery.liskpro.com) A Lisk lottery site run by Liskpro.com
+
+# Telegram
+* [Lisk News](http://t.me/LiskNews) Lisk News Telegram
+* [Lisk Delegates](http://t.me/LiskDelegates) Lisk Delegates Telegram
 
 # Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
@@ -87,6 +92,9 @@ List of content
 # Ruby
 * [Lisk.rb](https://github.com/4fryn/lisk.rb) A Ruby wrapper for the Lisk API
 
+# Swift
+* [Lisk Swift](https://github.com/AndrewBarba/lisk-swift) Swift library to use the Lisk API with iOS projects
+
 # Tools
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
 * [Dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
@@ -97,6 +105,8 @@ List of content
 * [Lisk Value Calculator](https://bluedragon555.github.io/Lisk-Value-Calculator) A tool to quickly find the value of an amount of Lisk
 * [Lisk Nodes Status Check](https://bluedragon555.github.io/Lisk-Nodes-Status-Check) Check the status of the known Lisk nodes
 * [Lisk NotifyChain](https://lisk.notifychain.com) Receive an email when something happens on the Lisk network
+* [offline Lisk Tools](https://github.com/lisksnake/offlineLiskTools) Tools for offline Lisk transactions [(Transaction Broadcaster For Android)](https://play.google.com/store/apps/details?id=lisksnake.liskonlinebroadcaster)
+* [Lisk Delegate Charts](http://www.lisklisten.net) A realtime Lisk transaction visualizer
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
