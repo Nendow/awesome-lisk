@@ -106,7 +106,7 @@ List of content
 * [Lisk Nodes Status Check](https://bluedragon555.github.io/Lisk-Nodes-Status-Check) Check the status of the known Lisk nodes
 * [Lisk NotifyChain](https://lisk.notifychain.com) Receive an email when something happens on the Lisk network
 * [Offline Lisk Tools](https://github.com/lisksnake/offlineLiskTools) Tools for offline Lisk transactions [(Transaction Broadcaster For Android)](https://play.google.com/store/apps/details?id=lisksnake.liskonlinebroadcaster)
-* [Lisk Delegate Charts](http://www.lisklisten.net) A realtime Lisk transaction visualizer
+* [LiskListen.net](http://www.lisklisten.net) A realtime Lisk transaction visualizer
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
