@@ -82,7 +82,7 @@ List of content
 * [Lisk API Wrapper](https://github.com/dakk/liskapi) A NodeJS smart wrapper for Lisk node APIs
 * [Lisk Buttons](https://github.com/lisk-builders/lisk-buttons) Buttons for sending Lisk payments and receiving votes
 * [Moracle.network](https://moracle.network) Moracle is the decentralized and programmable oracle for Lisk
-
+* [Lisk Pending API](https://github.com/tobiaslins/lisk-pending) Easy extendable api to get pending payouts from delegates & pools
 # PHP
 * [LiskPHP](https://github.com/cb0/LiskPHP) A PHP wrapper for the LISK API
 
@@ -108,6 +108,7 @@ List of content
 * [Lisk Value Calculator](https://bluedragon555.github.io/Lisk-Value-Calculator) A tool to quickly find the value of an amount of Lisk
 * [Lisk Nodes Status Check](https://bluedragon555.github.io/Lisk-Nodes-Status-Check) Check the status of the known Lisk nodes
 * [Lisk NotifyChain](https://lisk.notifychain.com) Receive an email when something happens on the Lisk network
+* [Lisk Telegram Bot](https://bot.lisk.supply) Receive telegram notifications for transactions & check your pending forging payouts
 * [Offline Lisk Tools](https://github.com/lisksnake/offlineLiskTools) Tools for offline Lisk transactions [(Transaction Broadcaster For Android)](https://play.google.com/store/apps/details?id=lisksnake.liskonlinebroadcaster)
 * [Lisklisten.net](http://www.lisklisten.net) A realtime Lisk transaction visualizer
 
