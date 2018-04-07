@@ -111,6 +111,8 @@ List of content
 * [Lisk Telegram Bot](https://bot.lisk.supply) Receive telegram notifications for transactions & check your pending forging payouts
 * [Offline Lisk Tools](https://github.com/lisksnake/offlineLiskTools) Tools for offline Lisk transactions [(Transaction Broadcaster For Android)](https://play.google.com/store/apps/details?id=lisksnake.liskonlinebroadcaster)
 * [Lisklisten.net](http://www.lisklisten.net) A realtime Lisk transaction visualizer
+* [Lisk Pending](https://pending.lisk.ws) A fast and clean way to check your pending Lisk rewards for all pools and delegates
+
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
